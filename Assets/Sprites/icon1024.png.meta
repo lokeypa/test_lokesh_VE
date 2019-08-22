@@ -4,9 +4,9 @@ TextureImporter:
   fileIDToRecycleName:
     21300000: CBlue
     21300002: cYEllow
-    21300004: cPink
+    21300004: cViolet
     21300006: cOrange
-    21300008: icon1024_5
+    21300008: cPink
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -130,7 +130,7 @@ TextureImporter:
         width: 151
         height: 148
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -150,7 +150,7 @@ TextureImporter:
         width: 152
         height: 148
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -162,7 +162,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: cPink
+      name: cViolet
       rect:
         serializedVersion: 2
         x: 436
@@ -170,7 +170,7 @@ TextureImporter:
         width: 152
         height: 148
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -190,7 +190,7 @@ TextureImporter:
         width: 152
         height: 148
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -202,7 +202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon1024_5
+      name: cPink
       rect:
         serializedVersion: 2
         x: 436
@@ -210,7 +210,7 @@ TextureImporter:
         width: 151
         height: 148
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
